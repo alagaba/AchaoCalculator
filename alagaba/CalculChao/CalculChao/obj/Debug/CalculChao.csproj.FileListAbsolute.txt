@@ -1,0 +1,7 @@
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\bin\Debug\CalculChao.exe.config
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\bin\Debug\CalculChao.exe
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\bin\Debug\CalculChao.pdb
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\obj\Debug\CalculChao.csprojAssemblyReference.cache
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\obj\Debug\CalculChao.csproj.CoreCompileInputs.cache
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\obj\Debug\CalculChao.exe
+D:\Csharp\AchaoCalculator\alagaba\CalculChao\CalculChao\obj\Debug\CalculChao.pdb
